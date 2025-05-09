@@ -1,0 +1,10 @@
+opencv-contrib-python
+numpy
+Pillow
+customtkinter
+pandas
+fpdf
+
+
+
+
