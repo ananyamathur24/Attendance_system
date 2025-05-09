@@ -1,0 +1,9 @@
+├── attendance_system.py          # Main GUI file
+├── data/                         # Student image data
+│   └── ClassName/Enrollment_StudentName/
+├── attendance/                   # CSV logs by class and date
+├── models/
+│   └── encodings.pickle          # Face encodings
+├── marks.csv                     # Student marks
+├── README.md                     # Project documentation
+└── requirements.txt              # Required Python packages
